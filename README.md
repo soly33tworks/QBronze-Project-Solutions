@@ -11,3 +11,5 @@ Note: The images, contents of "qworld" and some of the sub routines were directl
 [Simulating a Real-Valued Qubit](https://github.com/soly33tworks/QBronze-Project-Solutions/blob/main/Project_Simulating_a_RealValued_Qubit-checkpoint.ipynb)
 
 [Quantum Tomography with Many Qubits](https://github.com/soly33tworks/QBronze-Project-Solutions/blob/main/Project_Quantum_Tomography_with_Many_Qubits-checkpoint.ipynb)
+
+Others will be added once finished...
