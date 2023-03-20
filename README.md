@@ -14,4 +14,6 @@ Note: The images, contents of "qworld" and some of the sub routines were directl
 
 [Implementing Quantum Teleportation](https://github.com/soly33tworks/QBronze-Project-Solutions/blob/main/Project_Implementing_Quantum_Teleportation-checkpoint.ipynb)
 
+[Communication via Superdense Coding](https://github.com/soly33tworks/QBronze-Project-Solutions/blob/main/Project_Communication_via_Superdense_Coding-checkpoint.ipynb)
+
 Others will be added once finished...
